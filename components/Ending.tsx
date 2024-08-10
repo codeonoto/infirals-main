@@ -94,6 +94,12 @@ const Ending = () => {
       designation: 'Minecraft Dev',
       image: '/tanishk.jpg',
     },
+    {
+      id: 11,
+      name: 'MidKnight',
+      designation: 'HeadMod',
+      image: '/midn.png',
+    },
   ];
   return (
     <div className='pb-16 pt-36 '>

@@ -109,11 +109,6 @@ const Gallery = () => {
     'https://media.discordapp.net/attachments/1019697361515204679/1215930727355514901/2023-11-21_16.11.45.png?ex=66b7c57c&is=66b673fc&hm=baa3e022425d1a1c726761d2ff70e4b26a4b998fa3ecb3ea6e1d7a1ec00ff11f&=&format=webp&quality=lossless&width=1193&height=671',
     'https://media.discordapp.net/attachments/1019697361515204679/1215930730111172718/2023-11-26_18.28.57.png?ex=66b7c57c&is=66b673fc&hm=6b0b5713fd7cdf16aa687f415f3ef70267a68be93d0a60fcf59d5a1730476e9b&=&format=webp&quality=lossless&width=1193&height=671',
     'https://media.discordapp.net/attachments/1019697361515204679/1175726911423516753/image.png?ex=66b7d943&is=66b687c3&hm=13a68d34f533ab0c4afcf32d6140418f54862dc07ca4919efb83958bf040e2ac&=&format=webp&quality=lossless&width=1183&height=671',
-    '',
-    '',
-    '',
-    '',
-    '',
   ];
 
   const words = [

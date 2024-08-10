@@ -132,56 +132,65 @@ const data = [
   },
   {
     category: 'Half Heart S4',
-    title: 'Most Loved SMP',
+    title: 'The Ultimate Lifesteal Challenge',
     src: '/hhs4-1.png',
-    content: 'Infirals is a Minecraft server that is loved by many people.',
+    content:
+      'Experience the latest and greatest in our Lifesteal series. HalfHeart S4 brings new challenges, alliances, and high-stakes gameplay that will keep you on the edge of your seat.',
   },
   {
     category: 'Half Heart S3',
-    title: 'Most Loved SMP',
+    title: 'Thrills and Triumphs',
     src: '/hhs3-2.png',
-    content: 'Infirals is a Minecraft server that is loved by many people.',
+    content:
+      'Relive the intense moments and epic battles of HalfHeart S3. Witness how players navigated the dangers and excitement of our Lifesteal SMP in this thrilling season.',
   },
   {
     category: 'Half Heart S2',
-    title: 'Most Loved SMP',
+    title: 'Rising Tensions',
     src: '/hhs2-9.png',
-    content: 'Infirals is a Minecraft server that is loved by many people.',
+    content:
+      'Dive into the action of HalfHeart S2, where rivalries heated up and strategies evolved. This season pushed the boundaries of survival and competition.',
   },
   {
     category: 'WinZestiers S3',
-    title: 'Most Loved SMP',
+    title: 'The Dawn of Survival',
     src: '/wz3-1.png',
-    content: 'Infirals is a Minecraft server that is loved by many people.',
+    content:
+      'Step into the latest chapter of WinZestiers with S3. This season introduces new challenges, expanded territories, and exciting survival gameplay that will test your skills and strategies.',
   },
   {
     category: 'Half Heart S1',
-    title: 'Most Loved SMP',
+    title: 'The Beginning of an Era',
     src: '/hhs2-1.png',
-    content: 'Infirals is a Minecraft server that is loved by many people.',
+    content:
+      'Join us at the start of the Lifesteal journey with HalfHeart S1. Discover how it all began and the foundations that set the stage for future seasons of this gripping SMP.',
   },
   {
     category: 'EraBlock S2',
-    title: 'Most Loved SMP',
+    title: 'The Next Evolution',
     src: 'https://media.discordapp.net/attachments/1019697361515204679/1026671707806765076/Lunar_Client_1.19.2-e39d2b1_master_04-10-2022_00_06_00.png?ex=66b81809&is=66b6c689&hm=4ace58b99899a2afcde7dfd17fb57ffc5ff934d09c9e48df77b0a4042013debd&=&format=webp&quality=lossless&width=1052&height=592',
-    content: 'Infirals is a Minecraft server that is loved by many people.',
+    content:
+      'Uncover the advancements of EraBlock S2 with brand-new features and crossplay integration, enhancing your gameplay and broadening your adventure horizons.',
   },
   {
     category: 'EraBlock S1',
-    title: 'Most Loved SMP',
+    title: 'A New SMP Era Begins',
     src: 'https://media.discordapp.net/attachments/1019697361515204679/1066776290176270377/IMG_5974.png?ex=66b7a7d7&is=66b65657&hm=fa2ed8e0c9125ae5278adfa3de6b4926f6153431619f58424831a43d98dbf925&=&format=webp&quality=lossless',
-    content: 'Infirals is a Minecraft server that is loved by many people.',
+    content:
+      'Step into EraBlock S1, where our public SMP journey begins with unique features and crossplay, laying the groundwork for an exciting new chapter in survival gaming.',
   },
   {
     category: 'WinZestiers S2',
-    title: 'After receiving love from people in Season 1, we started Season 2',
+    title: 'Evolving Challenges',
     src: '/wz2.png',
-    content: 'Infirals is a Minecraft server that is loved by many people.',
+    content:
+      'Experience the evolution of survival with WinZestiers S2. As the world grows and the stakes rise, players face increasingly complex challenges and thrilling adventures.',
   },
   {
     category: 'WinZestiers S1',
-    title: 'This is our first Minecraft server.',
+    title: 'The Dawn of Survival',
     src: 'https://media.discordapp.net/attachments/1019697361515204679/1059677630317731900/Screenshot_55.png?ex=66b789f2&is=66b63872&hm=5d152199ef6a052e6c5ce62fd62e8de07abf0cf59ec1fe71d4684bf9ee665444&=&format=webp&quality=lossless&width=1193&height=671',
-    content: 'Infirals is a Minecraft server that is loved by many people.',
+    content:
+      'Discover the origins of WinZestiers with S1, where it all began. This inaugural season set the stage for epic survival experiences and established the foundation for future adventures.',
   },
 ];
