@@ -4,6 +4,7 @@ import './globals.css';
 import { ThemeProvider } from './provider';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 import { Analytics } from '@vercel/analytics/react';
+import AdSense from '@/components/AdSense';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -24,6 +25,7 @@ export default function RootLayout({
           rel='icon'
           href='/inf.png'
         />
+        <AdSense pId='ca-pub-7722122582852042' />
       </head>
       <body className={inter.className}>
         <ThemeProvider
