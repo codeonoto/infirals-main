@@ -28,8 +28,8 @@ export const Highlight = ({
 
 const Hero = () => {
   return (
-    <div className='pb-20 pt-20 h-full min-h-screen relative'>
-      <div className='flex justify-center relative my-20 z-10'>
+    <div className='pt-20 min-h-screen relative'>
+      <div className='flex justify-center relative z-10'>
         <div className='max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center '>
           <AdBanner />
           <Image
@@ -40,7 +40,7 @@ const Hero = () => {
             className='mx-auto rounded-2xl object-cover h-full object-left-top'
             draggable={false}
           />
-          <br />
+          {/* <br /> */}
           <h2 className='uppercase tracking-wider text-lg text-center text-gray-800'>
             Something is cooking, just wait a bit! 🍳🔥
           </h2>
